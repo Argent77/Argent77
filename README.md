@@ -52,12 +52,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Argent77/A7-add_kit_ex">ADD_KIT_EX</a></h3>
-      <sup>A WeiDU function that aims at unifying WeiDU's built-in ADD_KIT and COPY_KIT as well as the complementary function fl#add_kit_ee.</sup>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-TextureConvert">Texture Converter</a></h3>
       <sup>A mod that automates PVRZ texture conversion to various compression types used by the mobile game variants.</sup>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Argent77/A7-add_kit_ex">ADD_KIT_EX</a></h3>
+      <sup>A WeiDU function that aims at unifying WeiDU's built-in ADD_KIT and COPY_KIT as well as the complementary function fl#add_kit_ee.</sup>
     </td>
   </tr>
 </table>
