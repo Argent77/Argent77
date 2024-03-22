@@ -6,12 +6,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/NearInfinity">Near Infinity</a></h3>
-      <img width="100%" src="images/tools-ni.png"/><br/>
+      <img width="100%" src="https://raw.githubusercontent.com/Argent77/Argent77/master/images/tools-ni.webp"/><br/>
       <sup>An Infinity Engine Browser and Editor.</sup>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/InfinityTools/WeiduInstallTool">WeiDU Install Tool</a></h3>
-      <img width="100%" src="images/tools-wit.png"/><br/>
+      <img width="100%" src="https://raw.githubusercontent.com/Argent77/Argent77/master/images/tools-wit.webp"/><br/>
       <sup>A graphical front end for WeiDU Mods.</sup>
     </td>
   </tr>
