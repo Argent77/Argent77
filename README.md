@@ -181,7 +181,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-WaresOfThePlanes">Wares of the Planes</a></h3>
-      <sup>A mod for BG:EE, SoD, BG2:EE and EET that imports a large number of items from Planescape: Torment to the Baldur's Gate series.</sup>
+      <sup>A mod for BG:EE, SoD, BG2:EE and EET that imports a large number of items from the Planescape universe to the Baldur's Gate series.</sup>
     </td>
   </tr>
 </table>
