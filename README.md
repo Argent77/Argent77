@@ -31,8 +31,17 @@
       <sup>Command line tool for converting tileset overlays between classic BG2 and Enhanced Edition games.</sup>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/InfinityTools/WeiduModPackager">WeiDU Mod Package Builder</a></h3>
+      <sup>A customizable GitHub action for automating creation of WeiDU mod packages.</sup>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/NotePad_PlusPlus_WeiDU">WeiDU Syntax Highlighting for Notepad++</a></h3>
       <sup>Provides syntax highlighting and auto-completion for TP2, BAF, D and TRA file types.</sup>
+    </td>
+    <td width="50%" valign="top">
+      <p>&nbsp;</p>
     </td>
   </tr>
 </table>
