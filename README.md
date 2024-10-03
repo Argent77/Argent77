@@ -32,7 +32,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/InfinityTools/WeiduModPackager">WeiDU Mod Package Builder</a></h3>
-      <sup>A customizable GitHub action for automating creation of WeiDU mod packages.</sup>
+      <sup>A customizable GitHub action for automating the creation of WeiDU mod packages.</sup>
     </td>
   </tr>
   <tr>
