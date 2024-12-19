@@ -69,6 +69,15 @@
       <sup>A WeiDU function that aims at unifying WeiDU's built-in ADD_KIT and COPY_KIT as well as the complementary function fl#add_kit_ee.</sup>
     </td>
   </tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Argent77/A7-BiffedAreasFix">Biffed Areas Fix</a></h3>
+      <sup>A troubleshooting mod for original BG2 (SoA, ToB, BGT, Tutu) to fix area-related crashes.</sup>
+    </td>
+    <td width="50%" valign="top">
+      <p>&nbsp;</p>
+    </td>
+  <tr>
+  </tr>
 </table>
 
 ## Mods
