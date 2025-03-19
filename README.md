@@ -39,11 +39,11 @@
     <td width="50%" valign="top">
       <!--<h3><a href="https://github.com/Argent77/Kate-WeiDU">WeiDU Syntax Highlighting for Kate</a></h3>-->
       <h3><strong><em>Coming soon: WeiDU Syntax Highlighting for Kate</em></strong></h3>
-      <sup>Provides syntax highlighting of TP2, BAF, D and TRA file types for the <a href="https://kate-editor.org/">Kate Text Editor</a>.</sup>
+      <sup>Provides syntax highlighting for TP2, BAF, D and TRA file types in the <a href="https://kate-editor.org/">Kate Text Editor</a>.</sup>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/NotePad_PlusPlus_WeiDU">WeiDU Syntax Highlighting for Notepad++</a></h3>
-      <sup>Provides syntax highlighting and auto-completion of TP2, BAF, D and TRA file types for <a href="https://notepad-plus-plus.org/">Notepad++</a>.</sup>
+      <sup>Provides syntax highlighting and auto-completion for TP2, BAF, D and TRA file types in <a href="https://notepad-plus-plus.org/">Notepad++</a>.</sup>
     </td>
   </tr>
 </table>
