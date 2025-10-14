@@ -151,57 +151,68 @@
       <sup>A mod that introduces a magical artifact which allows access to stores from all over the world.</sup>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Argent77/A7-NPCGenerator">NPC Generator</a></h3>
-      <sup>Install your own pregenerated or exported characters as regular NPCs.</sup>
+      <h3><em>Coming soon: Multiclass Kits</em><!--<a href="https://github.com/Argent77/A7-MultiKits">Multiclass Kits</a>--></h3>
+      <sup>A mod that installs all kinds of true multiclass kit combinations based on single-class kits.</sup>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Argent77/A7-NPCGenerator">NPC Generator</a></h3>
+      <sup>Install your own pregenerated or exported characters as regular NPCs.</sup>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/PST-UB-reloaded">PS:T Unfinished Business - Reloaded</a></h3>
       <sup>A mod that makes Qwinn's original "PS:T Unfinished Business" available for PST:EE.</sup>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-Protagonist-Be-Gone">Protagonist-Be-Gone!</a></h3>
       <sup>A (not so serious) mod that gets rid of the protagonist, so that Imoen can take her rightful place in the game.</sup>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-recoloredbuttons">Recolored character's toolbar buttons</a></h3>
       <sup>A small GUI tweak for BG:EE and BG2:EE that recolors the icons on the toolbar.</sup>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-HiddenGameplayOptions">Reveal Hidden Gameplay Options</a></h3>
       <sup>A mod that makes a number of useful options and an improved debug console directly accessible within Enhanced Edition games.</sup>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-LightingPackEE">Shader Pack: Lighting adjustments</a></h3>
       <sup>A visual enhancement mod for BG:EE, BG2:EE and IWD:EE.</sup>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-SkipChateauIrenicus">Skip Chateau Irenicus</a></h3>
       <sup>A mod for BG2, BG2:EE and EET that allows you to skip the opening dungeon without losing potential equipment and items.</sup>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-CustomKits">Spellsword Kit</a></h3>
       <sup>A mod that introduces the fighter kit "Spellsword".</sup>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-TestYourMettle">Test Your Mettle!</a></h3>
       <sup>A mod for BG2:EE and EET that provides you with a unique dungeon crawling experience.</sup>
     </td>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-TotLM-BG2EE">Trials of the Luremaster for Baldur's Gate</a></h3>
       <sup>The Icewind Dale expansion "Trials of the Luremaster" made available to BG2:EE and EET.</sup>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Argent77/A7-WaresOfThePlanes">Wares of the Planes</a></h3>
       <sup>A mod for BG:EE, SoD, BG2:EE and EET that imports a large number of items from the Planescape universe to the Baldur's Gate series.</sup>
+    </td>
+    <td width="50%" valign="top">
+      <h3>&nbsp;</h3>
+      <sup>&nbsp;</sup>
     </td>
   </tr>
 </table>
