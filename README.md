@@ -211,8 +211,7 @@
       <sup>A mod for BG:EE, SoD, BG2:EE and EET that imports a large number of items from the Planescape universe to the Baldur's Gate series.</sup>
     </td>
     <td width="50%" valign="top">
-      <h3>&nbsp;</h3>
-      <sup>&nbsp;</sup>
+      &nbsp;
     </td>
   </tr>
 </table>
