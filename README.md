@@ -151,7 +151,7 @@
       <sup>A mod that introduces a magical artifact which allows access to stores from all over the world.</sup>
     </td>
     <td width="50%" valign="top">
-      <h3><em>Coming soon: Multiclass Kits</em><!--<a href="https://github.com/Argent77/A7-MultiKits">Multiclass Kits</a>--></h3>
+      <h3><a href="https://github.com/Argent77/A7-MultiKits">Multiclass Kits</a></h3>
       <sup>A mod that installs all kinds of true multiclass kit combinations based on single-class kits.</sup>
     </td>
   </tr>
