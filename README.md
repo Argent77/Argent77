@@ -75,8 +75,8 @@
       <sup>A troubleshooting mod for original BG2 (SoA, ToB, BGT, Tutu) to fix area-related crashes.</sup>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://gist.github.com/Argent77">Collection of WeiDU functions</a></h3>
-      <sup>Loose collection of more or less useful WeiDU functions.</sup>
+      <h3><a href="https://github.com/InfinityTools/libs-and-tools">Libs &amp; Tools</a></h3>
+      <sup>Loose collection of tools, scripts, libraries, functions, documentation, and other modding resources.</sup>
     </td>
   <tr>
   </tr>
