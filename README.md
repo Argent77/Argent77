@@ -151,7 +151,7 @@
       <sup>A mod that introduces a magical artifact which allows access to stores from all over the world.</sup>
     </td>
     <td width="50%" valign="top">
-      <h3><!--<a href="https://github.com/Argent77/A7-MiscTweaks">Miscellaneous Tweaks</a>-->Miscellaneous Tweaks (coming soon)</h3>
+      <h3><a href="https://github.com/Argent77/A7-MiscTweaks">Miscellaneous Tweaks</a></h3>
       <sup>Loose collection of tweaks, cheats, and fixes.</sup>
     </td>
   </tr>
